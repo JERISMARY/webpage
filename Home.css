@@ -1,6 +1,6 @@
 body{
     background-image: url(R\ \(1\).jpeg);
-   
+    background-repeat: no-repeat;
     background-size: cover;
     background-color: rgb(17, 18, 18);
     background-blend-mode: soft-light; 
