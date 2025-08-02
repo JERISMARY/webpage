@@ -3,7 +3,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgb(17, 18, 18);
-    background-blend-mode: soft-light; 
+    background-blend-mode: soft-light;
+    text-align:right;
 }
 
 h1{
@@ -15,13 +16,7 @@ h1{
 }
 
 ul,li{
-    display: inline;
-}
-
-ul
-{
-    margin-left: 60vw;    
-}
+    display: inline}
 
 .nav
 {
@@ -124,4 +119,5 @@ a{
 .index{
     color: white;    
 }
+
 
