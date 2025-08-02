@@ -79,7 +79,7 @@ ul,li{
 
 .girl
 {
-    height: 40vh;
+    height: 20vw;
     width: auto;
     margin-left: 0;
     opacity: 0.8;
@@ -119,5 +119,6 @@ a{
 .index{
     color: white;    
 }
+
 
 
